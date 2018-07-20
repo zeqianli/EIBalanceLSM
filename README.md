@@ -4,7 +4,7 @@ A ![Liquid State Machine (LSM)](https://en.wikipedia.org/wiki/Reservoir_computin
 
 More about Liquid State Machine and Reservoir Computing: [4][5].
 
-The project was supervised by ![Prof. Changsong Zhou][http://physics.hkbu.edu.hk/home/info.php/people_details/pID,18]. 
+The project was supervised by ![Prof. Changsong Zhou](http://physics.hkbu.edu.hk/home/info.php/people_details/pID,18]). 
 
 ## Reference ##
 
